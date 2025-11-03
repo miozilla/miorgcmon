@@ -1,2 +1,2 @@
-# miorgcmon
-miorgcmon : Cloud Monitoring # Uptime check # alerting policy # logging # dashboard &amp; chart
+# miorgcmon 🪔🕵️‍♂️👾
+miorgcmon : Cloud Observability Monitoring # LAMP # Uptime check # alerting policy # logging # dashboard & chart
