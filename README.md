@@ -7,6 +7,10 @@ miorgcmon : Cloud Observability Monitoring # LAMP # Uptime check # alerting poli
 - Monitor a Compute Engine VM (LAMP) instance with Cloud Monitoring.
 - Install monitoring and logging agents in VM  to collect information the instance, which could include metrics & logs from 3rd party apps.
 
+## Similar Skills Set
+- AWS : Amazon CloudWatch
+- Azure : Azure Monitor
+- 
 
 # Miorgcmon Cloud Observability Monitoring
 
